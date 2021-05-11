@@ -4,7 +4,7 @@
 
 **bold text goes here**
 
-*italicized text*
+*more italicized text*
 
 >blockquote
 

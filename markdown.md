@@ -2,7 +2,7 @@
 ## Heading 2
 ### Heading 3
 
-**bold text**
+**bold text goes here**
 
 *italicized text*
 
